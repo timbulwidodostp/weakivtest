@@ -1,6 +1,8 @@
 # weakivtest
 Weak instrument test for a single endogenous regressor in TSLS (two-stage least squares) and LIML (limited-information maximum likelihood) Use weakivtest With STATA 18
 
+https://www.youtube.com/watch?v=_IdjMC56zoc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
